@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-comparison",
+	  "description": "The GroupDocs Comparison plugin for SilverStripe allows you to embed and compare two Word documents, as well as PDF files and Excel spreadsheets from within your website.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://groupdocs.com/apps/comparison",
+	  "keywords": ["silverstripe", "compare two word documents"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
